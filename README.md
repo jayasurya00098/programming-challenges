@@ -8,5 +8,7 @@ This repository consists of python programming challenges with its solutions.
     - Problem Constraints: 1 <= N <= 1000000
     - Input Format: A single line representing N
     - Output Format: N space separated integers from 1 to N.
-    > Example Input: 5
-    > Example Output: 1 2 3 4 5 
+
+    **Example**
+    Input: ``5``
+    Output: ``1 2 3 4 5``
