@@ -9,6 +9,6 @@ This repository consists of python programming challenges with its solutions.
     - Input Format: A single line representing N
     - Output Format: N space separated integers from 1 to N.
 
-    **Example**\
-    Input: ``5``\
+    **Example**
+    Input: ``5``
     Output: ``1 2 3 4 5``
