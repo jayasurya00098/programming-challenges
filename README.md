@@ -1,2 +1,2 @@
-# programming-challenges
-This repository consists of few programming challenges with its solutions.
+# python-programming-challenges
+This repository consists of python programming challenges with its solutions.
