@@ -23,3 +23,19 @@ This repository consists of python programming challenges with its solutions.
     **Example**
     Input: ``3``
     Output: ``***``
+
+###### Question 3:
+    - Take an integer N as input, print the corresponding stair pattern for N.
+    For example if N = 4 then stair pattern will be like:
+    ```*```
+    ```**```
+    ```***```
+    ```****```
+    ```*****```
+    - Problem Constraints: 1 <= N <= 100
+    - Input Format: Single line input contains a single integer N.
+    - Output Format: Output the stair pattern corresponding to the given N.
+
+    **Example**
+    Input: ``3``
+    Output:\ ``*`` ``**`` ``***``
