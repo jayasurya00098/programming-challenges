@@ -12,3 +12,14 @@ This repository consists of python programming challenges with its solutions.
     **Example**
     Input: ``5``
     Output: ``1 2 3 4 5``
+
+###### Question 2:
+    - Problem Description: Given an integer N, print N stars in a single line. For example if N = 5 then pattern will be like: 
+    ```*****```
+    - Problem Constraints: 2 <= N <= 100
+    - Input Format: Single line input contains a single integer N.
+    - Output Format: Output N stars in a single line.
+
+    **Example**
+    Input: ``3``
+    Output: ``***``
